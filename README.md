@@ -1,4 +1,4 @@
 # Node
  To study by Node.js
 
-Контрольные точки по Ноде
+Контрольные точки по Node.js
